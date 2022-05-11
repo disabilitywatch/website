@@ -33,12 +33,12 @@ params:
         customText:
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 🧑‍🦼
+        subtitle: Independent reporting on disabled issues, for disabled people.
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/logo.png
 
     article:
         math: false
