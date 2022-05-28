@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Guide dog and owner turned away from Oxford restaurant"
 description = ""
 date = "2022-05-28T15:41:59.000Z"
 author = "Matthew Gall"
