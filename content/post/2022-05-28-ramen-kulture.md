@@ -8,4 +8,5 @@ tags = ['uk', 'restaurant', 'oxford', 'ramen-kulture']
 
 A blind student was left feeling "shaken and excluded" after a restaurant said it would not allow them and their guide dog to eat inside.  
 
-**Source:** [BBC News](https://www.bbc.co.uk/news/uk-england-oxfordshire-61618015)
+**Source:** [BBC News](https://www.bbc.co.uk/news/uk-england-oxfordshire-61618015)  
+**Archive:** [archive.ph](https://archive.ph/GQt9Z)
