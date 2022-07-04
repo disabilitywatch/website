@@ -33,3 +33,4 @@ jobs:
           external_repository: disabilitywatch/disabilitywatch.github.io
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
+          cname: matthewgall.com
